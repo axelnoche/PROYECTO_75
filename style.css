@@ -1,0 +1,35 @@
+.travel_mainDiv{
+    border: 1px solid cadetblue;
+}
+
+#contact iframe
+
+{
+    width: 100%;
+}
+.sitios_mainDiv{
+    border:5px solid skyblue;
+}
+.sitios_mainDiv img{
+    width: 100%;
+}
+.movie_head {
+    font-size:20px ;
+    padding:6px 22px ;
+    border:10px ;
+    margin-bottom:15px ;
+}
+.movie_head i {
+    float: right;
+}
+.movie_text span {
+    color: yellow;
+    
+}
+.libros{
+    margin-bottom: 20px;
+    width:500px ;
+ }
+ #contact iframe{
+    width: 100%;
+ }
